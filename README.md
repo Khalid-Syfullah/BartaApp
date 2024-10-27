@@ -1,0 +1,2 @@
+# BartaApp
+Newspaper Reading App
