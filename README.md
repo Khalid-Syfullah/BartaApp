@@ -3,7 +3,32 @@
 
 An Android application for reading Bangladeshi newspapers, built with Java and XML. The app uses Retrofit for network operations and fetches news data scraped by Python scripts. It follows the MVVM (Model-View-ViewModel) architecture for clean and maintainable code.
 
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 ---
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/khalid-syfullah/BartaApp">
+    <img src="ui/logo.png" alt="Logo" width="256" height="256">
+  </a>
+ 
+
+  <h3 align="center">Barta</h3>
+
+  <p align="center">
+   Barta Newspaper Reading App for Android
+  </p>
+</p>
 
 ## Table of Contents
 1. [Description](#description)
@@ -25,6 +50,33 @@ An Android application for reading Bangladeshi newspapers, built with Java and X
 Barta is an Android app designed to provide users with up-to-date news from popular Bangladeshi newspapers. The news content is collected by Python web scraping scripts running on a server, which serve the data via a REST API. The app uses Retrofit to consume this API and display the news in a clean, user-friendly interface.
 
 The app architecture follows MVVM principles, separating UI, data, and business logic to make the app modular, testable, and scalable.
+
+
+<br />
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+
+
+  <img src="ui/1.png" alt="Logo" width="180" height="360">
+  <img src="ui/2.png" alt="Logo" width="180" height="360">
+  <img src="ui/3.png" alt="Logo" width="180" height="360">
+  <br>
+  <br>
+  <img src="ui/4.png" alt="Logo" width="180" height="360">
+  <img src="ui/5.png" alt="Logo" width="180" height="360">
+  <img src="ui/6.png" alt="Logo" width="180" height="360">
+ 
+  <br>
+  <br>
+  <br>
+  <br>
+
+
+
+</p>
 
 ---
 
@@ -61,6 +113,7 @@ The app architecture follows MVVM principles, separating UI, data, and business 
 - **RecyclerView** - Displays lists of news articles.
 
 ---
+
 
 ## Installation
 
@@ -135,13 +188,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+
+<!-- CONTACT -->
 ## Contact
 
-For any questions or feedback, please contact:
+Khalid Syfullah - [@khalid_syfullah](https://twitter.com/khalid_syfullah) - khalidsyfullah@gmail.com
 
-- **Your Name** - [khalidsyfullah@gmail.com](mailto:khalidsyfullah@gmail.com)  
-- GitHub: [https://github.com/Khalid-Syfullah](https://github.com/Khalid-Syfullah)
-
----
+Project Link: [https://github.com/khalid-syfullah/BartaApp](https://github.com/khalid-syfullah/BartaApp)
 
 Thank you for checking out Barta! Stay informed with the latest Bangladeshi news, all in your pocket.
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+
+[contributors-shield]: https://img.shields.io/static/v1?label=Contributors&message=2&color=red
+[contributors-url]: https://github.com/khalid-syfullah/bartaapp/graphs/contributors
+[forks-shield]: https://img.shields.io/static/v1?label=Forks&message=1&color=green
+[forks-url]: https://github.com/khalid-syfullah/bartaapp/network/members
+[stars-shield]: https://img.shields.io/static/v1?label=Stars&message=1&color=blue
+[stars-url]: https://github.com/khalid-syfullah/bartaapp/stargazers
+[issues-shield]: https://img.shields.io/static/v1?label=Issues&message=0&color=yellow
+[issues-url]: https://github.com/khalid-syfullah/bartaapp/issues
+[license-shield]: https://img.shields.io/static/v1?label=Licenses&message=0&color=purple
+[license-url]: https://github.com/khalid-syfullah/bartaapp/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/static/v1?label=LinkedIn&message=Khalid-Syfullah&logo=linkedin
+[linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
+[product-screenshot]: https://github.com/Khalid-Syfullah/bartaapp/ui/logo.png
