@@ -19,7 +19,7 @@ An Android application for reading Bangladeshi newspapers, built with Java and X
 <br />
 <p align="center">
   <a href="https://github.com/khalid-syfullah/BartaApp">
-    <img src="ui/logo.png" alt="Logo" width="256" height="256">
+    <img src="UI/logo.png" alt="Logo" width="256" height="256">
   </a>
  
 
@@ -60,14 +60,14 @@ The app architecture follows MVVM principles, separating UI, data, and business 
   <br>
 
 
-  <img src="ui/1.png" alt="Logo" width="180" height="360">
-  <img src="ui/2.png" alt="Logo" width="180" height="360">
-  <img src="ui/3.png" alt="Logo" width="180" height="360">
+  <img src="UI/1.png" alt="Logo" width="180" height="360">
+  <img src="UI/2.png" alt="Logo" width="180" height="360">
+  <img src="UI/3.png" alt="Logo" width="180" height="360">
   <br>
   <br>
-  <img src="ui/4.png" alt="Logo" width="180" height="360">
-  <img src="ui/5.png" alt="Logo" width="180" height="360">
-  <img src="ui/6.png" alt="Logo" width="180" height="360">
+  <img src="UI/4.png" alt="Logo" width="180" height="360">
+  <img src="UI/5.png" alt="Logo" width="180" height="360">
+  <img src="UI/6.png" alt="Logo" width="180" height="360">
  
   <br>
   <br>
@@ -216,4 +216,4 @@ Thank you for checking out Barta! Stay informed with the latest Bangladeshi news
 [license-url]: https://github.com/khalid-syfullah/bartaapp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/static/v1?label=LinkedIn&message=Khalid-Syfullah&logo=linkedin
 [linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
-[product-screenshot]: https://github.com/Khalid-Syfullah/bartaapp/ui/logo.png
+[product-screenshot]: https://github.com/Khalid-Syfullah/bartaapp/UI/logo.png
