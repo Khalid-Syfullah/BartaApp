@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Barta</string>
+    <string name="title_news">খবর</string>
+    <string name="title_collection">কালেকশন</string>
+    <string name="title_others">অন্যান্য</string>
+    <string name="title_quiz">কুইজ</string>
+    <string name="bangla">বাংলা</string>
+    <string name="english">ইংরেজী</string>
+    <string name="online">অনলাইন</string>
+    <string name="prothom_alo">দৈনিক প্রথম আলো</string>
+    <string name="ittefaq">দৈনিক ইত্তেফাক</string>
+    <string name="jugantor">যুগান্তর</string>
+    <string name="kalerkontho">দৈনিক কালেরকন্ঠ</string>
+    <string name="daily_star">The Daily Star</string>
+    <string name="dhaka_tribune">Dhaka Tribune</string>
+    <string name="bangla_news24">Bangla News24</string>
+    <string name="daily_sun">Daily Sun</string>
+    <string name="title_activity_news_headlines">NewsHeadlinesActivity</string>
+    <string name="amader_shomoy">আমাদের সময়</string>
+    <string name="inqilab">দৈনিক ইনকিলাব</string>
+    <string name="bangladesh_pratidin">বাংলাদেশ প্রতিদিন</string>
+    <string name="independent">The Independent</string>
+    <string name="bhorer_kagoj">ভোরের কাগজ</string>
+    <string name="naya_diganta">নয়া দিগন্ত</string>
+    <string name="manabzamin">মানবজমিন</string>
+    <string name="shangbad">সংবাদ</string>
+    <string name="financial_express">The Financial Express</string>
+    <string name="jaijaidin">যায়যায়দিন</string>
+
+</resources>
